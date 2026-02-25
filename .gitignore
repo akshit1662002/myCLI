@@ -1,0 +1,16 @@
+# Dependencies — npm install se generate hota hai, push nahi karna
+node_modules/
+
+# npm token — agar kabhi .env use kiya toh
+.env
+.env.local
+
+# Mac OS junk files
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# asciinema recording (optional — agar push karna ho toh remove karo)
+demo.cast
