@@ -8,11 +8,14 @@
 
 ---
 
+<!-- ## Demo
+
+[![asciicast](https://asciinema.org/a/YOUR_ASCIINEMA_ID.svg)](https://asciinema.org/a/YOUR_ASCIINEMA_ID)
+
+--- -->
 ## Demo
 
-<!-- [![asciicast](https://asciinema.org/a/YOUR_ASCIINEMA_ID.svg)](https://asciinema.org/a/YOUR_ASCIINEMA_ID) -->
-Coming Soon....
----
+Coming soon...
 
 ## What Gets Set Up Automatically
 
