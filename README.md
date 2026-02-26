@@ -10,8 +10,8 @@
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/YOUR_ASCIINEMA_ID.svg)](https://asciinema.org/a/YOUR_ASCIINEMA_ID)
-
+<!-- [![asciicast](https://asciinema.org/a/YOUR_ASCIINEMA_ID.svg)](https://asciinema.org/a/YOUR_ASCIINEMA_ID) -->
+Coming Soon....
 ---
 
 ## What Gets Set Up Automatically

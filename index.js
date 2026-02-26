@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 import { cac } from "cac";
 import prompts from "prompts";
 import { green, cyan } from "kleur/colors";
